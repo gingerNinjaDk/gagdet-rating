@@ -1,0 +1,18 @@
+{
+    "rates": [
+      {
+        "cover": "THEFT",
+        "covername": "Theft",
+        "rate": 13.80
+      },
+      {
+        "id": "ACCIDENT",
+        "covername": "Accident",
+        "rate": 56.00
+      },{
+        "id": "GLASS",
+        "covername": "Glass",
+        "rate": 14.20
+      }
+    ]
+  }
