@@ -1,7 +1,7 @@
 {
     "rates": [
       {
-        "cover": "THEFT",
+        "id": "THEFT",
         "covername": "Theft",
         "rate": 13.80
       },
